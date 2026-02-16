@@ -6,22 +6,12 @@ Every single line of code in this repository was written by me manually. No AI g
 
 ---
 
-## About Me
-
-- 🎓 BSc IT Graduate (2024)
-- 💼 Django Developer Intern
-- 📍 Kathmandu, Nepal
-- 🎯 Goal: Become a professional Python/Django Developer
-
----
-
 ## Why This Repository?
 
 I created this repo to:
 - Track my learning progress chapter by chapter
 - Build consistency and discipline in coding
 - Practice writing code from scratch without relying on AI
-- Document my journey from beginner to Django developer
 
 ---
 
@@ -41,25 +31,6 @@ I created this repo to:
 
 ---
 
-## Repository Structure
-```
-learning-python/
-│
-├── chapter_01/
-├── chapter_02/
-├── chapter_03/
-├── chapter_04/
-│   ├── problem_1.py
-│   ├── problem_2.py
-│   └── ...
-├── chapter_05/
-├── chapter_06/
-├── chapter_07/
-├── chapter_09/
-├── chapter_10/
-└── README.md
-```
-
 ## My Learning Rules
 
 1. **Type every line manually** - no copy pasting
@@ -72,7 +43,7 @@ learning-python/
 
 ## Tech Stack
 
-- **Language:** Python 3
+- **Language:** Python
 - **Editor:** VS Code
 - **Goal Framework:** Django
 
