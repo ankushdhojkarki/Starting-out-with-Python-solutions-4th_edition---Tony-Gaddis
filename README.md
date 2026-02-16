@@ -21,7 +21,6 @@ I created this repo to:
 
 | Chapter | Topic | Status |
 |---------|-------|--------|
-| Chapter 1 | Introduction to Computers and Programming | ✅ Done |
 | Chapter 2 | Input, Processing, and Output | ⏳ In Progress |
 | Chapter 3 | Decision Structures and Boolean Logic | ⬜ Not Started |
 | Chapter 4 | Repetition Structures | ⬜ Not Started |
