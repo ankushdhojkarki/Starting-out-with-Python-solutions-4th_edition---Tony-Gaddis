@@ -2,6 +2,8 @@
 
 This repository contains my solutions to the programming exercises from the book **"Starting Out with Python" by Tony Gaddis (4th Edition)**.
 
+> **Note:** This repository contains only the Programming Exercises found at the end of each chapter. Review Questions and Checkpoint questions are not included.
+
 Every single line of code in this repository was written by me manually. No AI generation, no copy-pasting.
 
 ---
@@ -57,4 +59,4 @@ I created this repo to:
 
 ---
 
-                                                                   *"The people who succeed aren't smarter - they just show up consistently."*
+                                                                   
