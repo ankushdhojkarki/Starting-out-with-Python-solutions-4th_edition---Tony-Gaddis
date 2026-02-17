@@ -17,19 +17,6 @@ I created this repo to:
 
 ---
 
-## Progress Tracker
-
-| Chapter | Topic | Status |
-|---------|-------|--------|
-| Chapter 4 | Repetition Structures | ⬜ Not Started |
-| Chapter 5 | Functions | ⬜ Not Started |
-| Chapter 6 | Files and Exceptions | ⬜ Not Started |
-| Chapter 7 | Lists and Tuples | ⬜ Not Started |
-| Chapter 9 | Dictionaries and Sets | ⬜ Not Started |
-| Chapter 10 | Classes and OOP | ⬜ Not Started |
-
----
-
 ## My Learning Rules
 
 1. **Type every line manually** - no copy pasting
