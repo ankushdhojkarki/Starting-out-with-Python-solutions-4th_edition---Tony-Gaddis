@@ -21,8 +21,6 @@ I created this repo to:
 
 | Chapter | Topic | Status |
 |---------|-------|--------|
-| Chapter 2 | Input, Processing, and Output | ⏳ In Progress |
-| Chapter 3 | Decision Structures and Boolean Logic | ⬜ Not Started |
 | Chapter 4 | Repetition Structures | ⬜ Not Started |
 | Chapter 5 | Functions | ⬜ Not Started |
 | Chapter 6 | Files and Exceptions | ⬜ Not Started |
@@ -42,19 +40,6 @@ I created this repo to:
 
 ---
 
-## Tech Stack
-
-- **Language:** Python
-- **Editor:** VS Code
-- **Goal Framework:** Django
-
----
-
-## Timeline
-
-- **Started:** February 2026
-- **Target completion:** April 2026
-- **Next goal:** Build Django projects using these fundamentals
 
 ---
 
